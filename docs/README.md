@@ -1,3 +1,8 @@
-# Some docs
+# Docs about my organization
 
-Pizza patrol
+* How we do things
+* How we do other things
+
+## How we order lunch
+
+Always pizza
