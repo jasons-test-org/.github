@@ -4,9 +4,9 @@ Some stuff!
 
 
 <!--START_SECTION:feed-->
-* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
-* [Build your own Probot](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
-* [New features of GitHub Actions v2](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
+* [2020-08-24] - [Assorted thoughts on documentation](https://jasonet.co/posts/thoughts-on-docs/))
+* [2020-07-08] - [On "lurking"](https://jasonet.co/posts/on-lurking/))
+* [2020-04-13] - [Probot App or GitHub Action? (Updated)](https://jasonet.co/posts/probot-app-or-github-action-v2/))
+* [2019-12-08] - [Build your own Probot](https://jasonet.co/posts/build-your-own-probot/))
+* [2019-09-01] - [New features of GitHub Actions v2](https://jasonet.co/posts/new-features-of-github-actions/))
 <!--END_SECTION:feed-->
